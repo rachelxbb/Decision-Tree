@@ -1,6 +1,6 @@
-## Decision-Tree
+# Decision-Tree
 
-# Task
+## Task
 This project is to predict whether the night-out in Jerusalem for the coming New Year's Eve is Enjoyed or not. The Dataset 
 he record of previous night-outs from dataset, 
 
